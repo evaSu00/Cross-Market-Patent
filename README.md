@@ -2,14 +2,9 @@
 
 ## Data
 
----
-
 - 來自Google Patent 中國美國德國IOT資料
 
 ## Steps
-
----
-
 1. patent 資料分析 `patent\code\EDA`
 2. 資料前處理 `LDA\segment` 將csv檔處理成txt格式方便LDA模型使用
 3. LDA模型使用。決定各國patent資料主題
