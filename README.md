@@ -15,4 +15,5 @@
     
     `patent\code\EDA\lda_scatter_plot.ipynb`, `patent\code\scatter_plot.ipynb`
     
-5. 各國Competitor analysis (LDA/CPC) `LDA\competitor_lda_brief_`, `patent\code\依年分\依年分competitor_all_`
+5. 各國Competitor analysis (LDA/CPC) 
+    `LDA\competitor_lda_brief_`, `patent\code\依年分\依年分competitor_all_`
